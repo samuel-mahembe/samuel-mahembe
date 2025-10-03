@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Samuel Mahembe</h1>
 
 <h3 align="center">
-Just a Software Engineer with a strong enthusiasm for Data Science, Machine Learning, and Cloud technologies. I focus on creating scalable, data-driven solutions that solve complex problems, enhance decision-making, and deliver measurable business impact. Passionate about continuous learning, knowledge sharing, and collaborating on projects that push the boundaries of technology and analytics.  
+Software Engineer passionate about Data Science, Machine Learning, and Cloud computing. I create scalable, data-driven solutions that solve challenging problems and drive measurable business outcomes. I enjoy learning new technologies, sharing knowledge, and collaborating on projects that push the limits of analytics and innovation.  
 </h3>
 
 ---
